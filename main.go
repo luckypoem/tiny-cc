@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"tiny-cc/expression"
-	"tiny-cc/statement"
+	"github.com/luckypoem/tiny-cc/expression"
+	"github.com/luckypoem/tiny-cc/statement"
 )
 
 type Machine struct {
